@@ -30,7 +30,7 @@
 
 <div align="left">
 
-- 🎓 Pursuing **Bioinformatics & AI**  
+- 🎓 Pursuing **Bioinformatics & AI** at **VIT Bhopal**  
 - 🧪 Passionate about **biological data**, **ML**, and **scientific computing**  
 - 💻 Skilled in **Python** and **R**  
 - ✍️ I write **poems, songs, and stories**  
