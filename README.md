@@ -24,7 +24,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=namitmagotra.namitmagotra" />
 </div>
 
-<h1 align="center">Hey There 👋</h1>
+<h1 align="center">Hey There 👋😊</h1>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
@@ -33,11 +33,11 @@
 - 🎓 Pursuing **Bioinformatics & AI** at **VIT Bhopal**  
 - 🧪 Passionate about **biological data**, **ML**, and **scientific computing**  
 - 💻 Skilled in **Python** and **R**  
-- ✍️ I write **poems, songs, and stories**  
-- 🏏 I watch a bit of **cricket** and enjoy the commentary & strategy  
+- ✍️ I write **poems, songs, and stories and a whole lot of other things as hobbies**  
+- 🏏 I watch a bit of **cricket** here and there and enjoy the game 
 
 <blockquote>
-“Turning biological data into stories—and sometimes turning stories into songs.”
+“Turning biological data into stories to shape the world!"
 </blockquote>
 
 </div>
